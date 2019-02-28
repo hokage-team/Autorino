@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: mahdziak.cars.saloncars.SaloncarsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 9.772 s <<< FAILURE! - in mahdziak.cars.saloncars.SaloncarsApplicationTests
+contextLoads(mahdziak.cars.saloncars.SaloncarsApplicationTests)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.AnnotationException: Unknown mappedBy in: mahdziak.cars.saloncars.entity.Engine.car, referenced property unknown: mahdziak.cars.saloncars.entity.Car.car
+Caused by: org.hibernate.AnnotationException: Unknown mappedBy in: mahdziak.cars.saloncars.entity.Engine.car, referenced property unknown: mahdziak.cars.saloncars.entity.Car.car
+

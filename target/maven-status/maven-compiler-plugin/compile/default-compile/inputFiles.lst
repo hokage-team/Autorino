@@ -1,0 +1,10 @@
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/SalonCarsApplication.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/Repository/CarRepository.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/Repository/CountryRepository.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/entity/NewCar.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/entity/Engine.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/entity/Country.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/Repository/EngineRepository.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/entity/User.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/entity/Car.java
+/home/stepan/IdeaProjects/saloncars/src/main/java/mahdziak/cars/saloncars/entity/UsedCar.java
